@@ -1,0 +1,1 @@
+# Main application entry point with PyQt5 UI and Home tab
